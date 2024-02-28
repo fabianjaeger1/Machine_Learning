@@ -4,10 +4,18 @@ This repository contains code projects and write-ups about topics in statistics,
 
 
 ### ToDo
-- [ ] Monte-Carlo Simulation
-- [ ] Hypothesis testing
+
+#### Basic Neural Networks:
+
+- [ ] Build basic FF neural network from scratch in torch
+- [ ] Implement a GAN
+- [ ] Implement a RNN (or some other sequence model)
 - [ ] Ensemble learning
 
+#### Statistics and Probablity Theory
+- [ ] Some basic data exploration
+- [ ] Monte-Carlo Simulation
+- [ ] Hypothesis testing
 
 #### Resources 
 ---- 

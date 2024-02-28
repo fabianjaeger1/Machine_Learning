@@ -17,6 +17,7 @@ Currently it serves to keep track of things I wish to explore more in the future
 ##### Recommender Systems
 
 - [ ] Build a Recommender System
+- [ ] Music Recommend System
 
 ##### Graph Neural Networks 
 - [ ] Experiment with Graph Neural Networks (using PyTorch Geometric library)

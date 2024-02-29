@@ -8,10 +8,11 @@ Currently it serves to keep track of things I wish to explore more in the future
 
 #### Basic Neural Networks:
 
-- [ ] Build basic FF neural network from scratch in torch
+- [x] Build basic FF neural network from scratch in torch
 - [ ] Implement a GAN
 - [ ] Implement a RNN (or some other sequence model)
 - [ ] Ensemble learning
+- [ ] Build Transformer from scratch
 
 
 ##### Recommender Systems
@@ -35,6 +36,9 @@ Currently it serves to keep track of things I wish to explore more in the future
 #### Resources 
 ---- 
 
+#### Repositories
+- [Probabilistic Machine Learning Book](https://github.com/probml/pyprobml)
+
 #### Courses
 
 - [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
@@ -50,3 +54,7 @@ Currently it serves to keep track of things I wish to explore more in the future
 ##### Theory Books
 - **Probabilistic Machine Learning: An Introduction - Murphy**
 - A modern introduction to Probability and Statistics - Dekking
+
+
+##### Others 
+- [aman.ai blog](https://aman.ai/primers/ai/)

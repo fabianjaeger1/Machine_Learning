@@ -1,6 +1,7 @@
 #### Basics
 - [X] Set up virtualenv
 - [ ] Set up Docker?
+- [ ] Writeups for each notebook
 
 #### Basic Neural Networks:
 
@@ -14,7 +15,6 @@
 ##### Recommender Systems
 
 - [ ] Build a Recommender System
-- [ ] Music Recommend System
 
 ##### Graph Neural Networks 
 - [ ] Experiment with Graph Neural Networks (using PyTorch Geometric library)
@@ -25,5 +25,10 @@
 - [ ] Hypothesis testing
 
 
+#### Projects
+- [ ] Music recommend system
+- [ ] Flashcard generation app
+
+
  #### Deployment 
- - [ ] Explore options for deployment of ML models on Web and local applications
+ - [ ] Explore options for deployment of ML models on web and local applications

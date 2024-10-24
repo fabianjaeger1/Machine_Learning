@@ -25,6 +25,9 @@
 - [ ] Hypothesis testing
 
 
+### Reinforcement Learning
+- [ ] Build basic Cartpole RF torch model
+
 #### Projects
 - [ ] Music recommend system
 - [ ] Flashcard generation app
